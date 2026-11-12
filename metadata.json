@@ -1,0 +1,8 @@
+{
+  "name": "TechUstaad — AI Project Roast & Engineering Reality Check",
+  "description": "Brutally honest Pakistani senior developer AI that roasts your GitHub repository or project idea and delivers a serious 100-point engineering reality check.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
