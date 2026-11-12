@@ -7,7 +7,7 @@
 **AI-Powered Project Roast & 100-Point Engineering Reality-Check Platform**  
 *Brutally honest Pakistani Senior Developer persona — pehle savage roast, phir proper software engineering advice.*
 
-[![Live App](https://img.shields.io/badge/🚀_Live_App-TechUstaad-FFE600?style=for-the-badge&labelColor=111111)](https://ais-pre-vdoepmypgaqctwdkmo4zyo-745066554425.asia-southeast1.run.app)
+[![Live App](https://img.shields.io/badge/🚀_Live_App-TechUstaad-FFE600?style=for-the-badge&labelColor=111111)](https://techustaad-ai-797691709149.us-west1.run.app/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-abdulhayykhan%2FTechUstaad-FF5C93?style=for-the-badge&logo=github&labelColor=111111)](https://github.com/abdulhayykhan/TechUstaad)
 [![Gemini 3.5 Flash-Lite](https://img.shields.io/badge/AI-Gemini_3.5_Flash--Lite-00D2FF?style=for-the-badge&logo=google&labelColor=111111)](https://ai.google.dev/)
 [![Groq LPU Fallback](https://img.shields.io/badge/Fallback-Groq_LPU-6EE7B7?style=for-the-badge&labelColor=111111)](https://groq.com/)
@@ -16,6 +16,7 @@
 
 ---
 
+**🌐 Live Demo:** **[techustaad-ai-797691709149.us-west1.run.app](https://techustaad-ai-797691709149.us-west1.run.app/)**  
 **Built with ❤️ by [Abdul Hayy Khan](https://abdulhayykhan.dev/) for Prompt Wars by GDGoC MAJU**
 
 </div>
